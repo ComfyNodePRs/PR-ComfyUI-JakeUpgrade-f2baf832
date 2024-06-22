@@ -60,10 +60,12 @@ To use JK_workflow, you need to install:
 [Portrait Master](https://github.com/florestefano1975/comfyui-portrait-master)
 [JakeUpgrade](https://github.com/jakechai/ComfyUI-JakeUpgrade)
 
-Install and replace old files (optional):
+Install and replace old files (optional, see in replacement folder):
 [Prompt Stylers](https://github.com/wolfden/ComfyUi_PromptStylers)
 [Dynamic Prompts](https://github.com/adieyal/comfyui-dynamicprompts)
 [Segment Anything](https://github.com/storyicon/comfyui_segment_anything)
+
+- copy _JK.pack in the replacement folder to `custom_nodes\ComfyUI-Manager\component'
 
 ## JakeUpgrade Custom Nodes
 	Misc Nodes
