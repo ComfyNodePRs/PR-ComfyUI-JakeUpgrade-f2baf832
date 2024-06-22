@@ -37,35 +37,33 @@ Bilibili
 
 ## Required Custom Nodes
 To use JK_workflow, you need to install:
-- [ComfyUI Manager](https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes)
-[rgthree](https://github.com/rgthree/rgthree-comfy)
-[Comfyroll](https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes)
-[pythongosssss](https://github.com/pythongosssss/ComfyUI-Custom-Scripts)
-[Efficiency Nodes](https://github.com/jags111/efficiency-nodes-comfyui)
-[ControlNet AUX](https://github.com/Fannovel16/comfyui_controlnet_aux)
-[Impact Pack](https://github.com/ltdrdata/ComfyUI-Impact-Pack)
-[WD14 Tagger](https://github.com/pythongosssss/ComfyUI-WD14-Tagger)
-[ComfyUI Noise](https://github.com/BlenderNeko/ComfyUI_Noise)
-[IP Adapter Plus](https://github.com/cubiq/ComfyUI_IPAdapter_plus)
-[Face Analysis](https://github.com/cubiq/ComfyUI_FaceAnalysis)
-[StyleAligned](https://github.com/brianfitzgerald/style_aligned_comfy)
-[NNLatentUpscale](https://github.com/Ttl/ComfyUi_NNLatentUpscale)
-[One Button Prompt](https://github.com/AIrjen/OneButtonPrompt)
-[ComfyUI ELLA](https://github.com/TencentQQGYLab/ComfyUI-ELLA)
-[Essentials](https://github.com/cubiq/ComfyUI_essentials)
-[WAS Node Suite](https://github.com/WASasquatch/was-node-suite-comfyui)
-[Ultimate SD Upscale](https://github.com/ssitu/ComfyUI_UltimateSDUpscale)
-[ComfyUI 3D Pack](https://github.com/MrForExample/ComfyUI-3D-Pack)
-[Seamless tiling](https://github.com/spinagon/ComfyUI-seamless-tiling)
-[Portrait Master](https://github.com/florestefano1975/comfyui-portrait-master)
-[JakeUpgrade](https://github.com/jakechai/ComfyUI-JakeUpgrade)
+- [rgthree](https://github.com/rgthree/rgthree-comfy)
+- [Comfyroll](https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes)
+- [pythongosssss](https://github.com/pythongosssss/ComfyUI-Custom-Scripts)
+- [Efficiency Nodes](https://github.com/jags111/efficiency-nodes-comfyui)
+- [ControlNet AUX](https://github.com/Fannovel16/comfyui_controlnet_aux)
+- [Impact Pack](https://github.com/ltdrdata/ComfyUI-Impact-Pack)
+- [WD14 Tagger](https://github.com/pythongosssss/ComfyUI-WD14-Tagger)
+- [ComfyUI Noise](https://github.com/BlenderNeko/ComfyUI_Noise)
+- [IP Adapter Plus](https://github.com/cubiq/ComfyUI_IPAdapter_plus)
+- [Face Analysis](https://github.com/cubiq/ComfyUI_FaceAnalysis)
+- [StyleAligned](https://github.com/brianfitzgerald/style_aligned_comfy)
+- [NNLatentUpscale](https://github.com/Ttl/ComfyUi_NNLatentUpscale)
+- [Dynamic Prompts](https://github.com/adieyal/comfyui-dynamicprompts)
+- [One Button Prompt](https://github.com/AIrjen/OneButtonPrompt)
+- [ComfyUI ELLA](https://github.com/TencentQQGYLab/ComfyUI-ELLA)
+- [Essentials](https://github.com/cubiq/ComfyUI_essentials)
+- [WAS Node Suite](https://github.com/WASasquatch/was-node-suite-comfyui)
+- [Ultimate SD Upscale](https://github.com/ssitu/ComfyUI_UltimateSDUpscale)
+- [ComfyUI 3D Pack](https://github.com/MrForExample/ComfyUI-3D-Pack)
+- [Seamless tiling](https://github.com/spinagon/ComfyUI-seamless-tiling)
+- [Portrait Master](https://github.com/florestefano1975/comfyui-portrait-master)
+- [JakeUpgrade](https://github.com/jakechai/ComfyUI-JakeUpgrade)
 
-Install and replace old files (optional, see in replacement folder):
-[Prompt Stylers](https://github.com/wolfden/ComfyUi_PromptStylers)
-[Dynamic Prompts](https://github.com/adieyal/comfyui-dynamicprompts)
-[Segment Anything](https://github.com/storyicon/comfyui_segment_anything)
-
-- copy _JK.pack in the replacement folder to `custom_nodes\ComfyUI-Manager\component'
+Install and copy | replace files (optional, see in replacement folder):
+- [ComfyUI Manager](https://github.com/ltdrdata/ComfyUI-Manager) : copy _JK.pack in the replacement folder to `custom_nodes\ComfyUI-Manager\component'
+- [Prompt Stylers](https://github.com/wolfden/ComfyUi_PromptStylers)
+- [Segment Anything](https://github.com/storyicon/comfyui_segment_anything)
 
 ## JakeUpgrade Custom Nodes
 	Misc Nodes
