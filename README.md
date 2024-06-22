@@ -23,17 +23,17 @@ Youtube
 Bilibili
 
 ## JakeUpgrade Workflow
-Main:
-	JK_workflow_tex2img_img2img_Complete
-	JK_workflow_Seamless Texture
-	JK_workflow_img2mesh_multi
-	JK_workflow_img2mesh_single
-Other:
-	JK_workflow_Concept
-	JK_workflow_Detailer
-	JK_workflow_Inpaint
-	JK_workflow_tex2img_Simple
-	JK_workflow_Upscale
+	Main:
+		JK_workflow_tex2img_img2img_Complete
+		JK_workflow_Seamless Texture
+		JK_workflow_img2mesh_multi
+		JK_workflow_img2mesh_single
+	Other:
+		JK_workflow_Concept
+		JK_workflow_Detailer
+		JK_workflow_Inpaint
+		JK_workflow_tex2img_Simple
+		JK_workflow_Upscale
 
 ## Required Custom Nodes
 To use JK_workflow, you need to install:
