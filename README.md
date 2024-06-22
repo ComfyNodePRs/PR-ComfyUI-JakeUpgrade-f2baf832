@@ -37,7 +37,7 @@ Bilibili
 
 ## Required Custom Nodes
 To use JK_workflow, you need to install:
-[ComfyUI Manager](https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes)
+- [ComfyUI Manager](https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes)
 [rgthree](https://github.com/rgthree/rgthree-comfy)
 [Comfyroll](https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes)
 [pythongosssss](https://github.com/pythongosssss/ComfyUI-Custom-Scripts)
