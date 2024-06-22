@@ -1,0 +1,14 @@
+{
+    "custom_nodes": [
+        {
+            "author": "Jake.Chaikefu",
+            "title": "ComfyUI-JakeUpgrade",
+            "reference": "https://www.unrealengine.com/marketplace/en-US/product/mars-master-material",
+            "files": [
+                "https://www.unrealengine.com/marketplace/en-US/product/mars-master-material"
+            ],
+            "install_type": "git-clone",
+            "description": "ComfyUI-JakeUpgrade is a custom node created by Jake Chaikefu."
+        },
+    ]
+}
