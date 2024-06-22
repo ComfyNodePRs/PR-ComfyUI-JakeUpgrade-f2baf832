@@ -19,50 +19,51 @@ A [ComfyUI](https://github.com/comfyanonymous/ComfyUI) workflow customization by
         `pip install -r requirements.txt`
 
 ## Video Introduction
-	Youtube
-	Bilibili
+Youtube
+Bilibili
 
 ## JakeUpgrade Workflow
-	Main:
-		JK_workflow_tex2img_img2img_Complete
-		JK_workflow_Seamless Texture
-		JK_workflow_img2mesh_multi
-		JK_workflow_img2mesh_single
-	Other:
-		JK_workflow_Concept
-		JK_workflow_Detailer
-		JK_workflow_Inpaint
-		JK_workflow_tex2img_Simple
-		JK_workflow_Upscale
+Main:
+	JK_workflow_tex2img_img2img_Complete
+	JK_workflow_Seamless Texture
+	JK_workflow_img2mesh_multi
+	JK_workflow_img2mesh_single
+Other:
+	JK_workflow_Concept
+	JK_workflow_Detailer
+	JK_workflow_Inpaint
+	JK_workflow_tex2img_Simple
+	JK_workflow_Upscale
 
 ## Required Custom Nodes
-	To use JK_workflow, you need to install:
+To use JK_workflow, you need to install:
 [ComfyUI Manager](https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes)
 [rgthree](https://github.com/rgthree/rgthree-comfy)
-	- [Comfyroll](https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes)
-	- [pythongosssss](https://github.com/pythongosssss/ComfyUI-Custom-Scripts)
-	- [Efficiency Nodes](https://github.com/jags111/efficiency-nodes-comfyui)
-	- [ControlNet AUX](https://github.com/Fannovel16/comfyui_controlnet_aux)
-	- [Impact Pack](https://github.com/ltdrdata/ComfyUI-Impact-Pack)
-	- [WD14 Tagger](https://github.com/pythongosssss/ComfyUI-WD14-Tagger)
-	- [ComfyUI Noise](https://github.com/BlenderNeko/ComfyUI_Noise)
-	- [IP Adapter Plus](https://github.com/cubiq/ComfyUI_IPAdapter_plus)
-	- [Face Analysis](https://github.com/cubiq/ComfyUI_FaceAnalysis)
-	- [StyleAligned](https://github.com/brianfitzgerald/style_aligned_comfy)
-	- [NNLatentUpscale](https://github.com/Ttl/ComfyUi_NNLatentUpscale)
-	- [One Button Prompt](https://github.com/AIrjen/OneButtonPrompt)
-	- [ComfyUI ELLA](https://github.com/TencentQQGYLab/ComfyUI-ELLA)
-	- [Essentials](https://github.com/cubiq/ComfyUI_essentials)
-	- [WAS Node Suite](https://github.com/WASasquatch/was-node-suite-comfyui)
-	- [Ultimate SD Upscale](https://github.com/ssitu/ComfyUI_UltimateSDUpscale)
-	- [ComfyUI 3D Pack](https://github.com/MrForExample/ComfyUI-3D-Pack)
-	- [Seamless tiling](https://github.com/spinagon/ComfyUI-seamless-tiling)
-	- [Portrait Master](https://github.com/florestefano1975/comfyui-portrait-master)
-	- [JakeUpgrade](https://github.com/jakechai/ComfyUI-JakeUpgrade)
-	Install and replace old files (optional):
-	- [Prompt Stylers](https://github.com/wolfden/ComfyUi_PromptStylers)
-	- [Dynamic Prompts](https://github.com/adieyal/comfyui-dynamicprompts)
-	- [Segment Anithing](https://github.com/storyicon/comfyui_segment_anything)
+[Comfyroll](https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes)
+[pythongosssss](https://github.com/pythongosssss/ComfyUI-Custom-Scripts)
+[Efficiency Nodes](https://github.com/jags111/efficiency-nodes-comfyui)
+[ControlNet AUX](https://github.com/Fannovel16/comfyui_controlnet_aux)
+[Impact Pack](https://github.com/ltdrdata/ComfyUI-Impact-Pack)
+[WD14 Tagger](https://github.com/pythongosssss/ComfyUI-WD14-Tagger)
+[ComfyUI Noise](https://github.com/BlenderNeko/ComfyUI_Noise)
+[IP Adapter Plus](https://github.com/cubiq/ComfyUI_IPAdapter_plus)
+[Face Analysis](https://github.com/cubiq/ComfyUI_FaceAnalysis)
+[StyleAligned](https://github.com/brianfitzgerald/style_aligned_comfy)
+[NNLatentUpscale](https://github.com/Ttl/ComfyUi_NNLatentUpscale)
+[One Button Prompt](https://github.com/AIrjen/OneButtonPrompt)
+[ComfyUI ELLA](https://github.com/TencentQQGYLab/ComfyUI-ELLA)
+[Essentials](https://github.com/cubiq/ComfyUI_essentials)
+[WAS Node Suite](https://github.com/WASasquatch/was-node-suite-comfyui)
+[Ultimate SD Upscale](https://github.com/ssitu/ComfyUI_UltimateSDUpscale)
+[ComfyUI 3D Pack](https://github.com/MrForExample/ComfyUI-3D-Pack)
+[Seamless tiling](https://github.com/spinagon/ComfyUI-seamless-tiling)
+[Portrait Master](https://github.com/florestefano1975/comfyui-portrait-master)
+[JakeUpgrade](https://github.com/jakechai/ComfyUI-JakeUpgrade)
+
+Install and replace old files (optional):
+[Prompt Stylers](https://github.com/wolfden/ComfyUi_PromptStylers)
+[Dynamic Prompts](https://github.com/adieyal/comfyui-dynamicprompts)
+[Segment Anithing](https://github.com/storyicon/comfyui_segment_anything)
 
 ## JakeUpgrade Custom Nodes
 	Misc Nodes
@@ -207,16 +208,16 @@ A [ComfyUI](https://github.com/comfyanonymous/ComfyUI) workflow customization by
 		JK🐉::Tex2Img
 
 ## Reference Custom Nodes
-	Jake Upgrade Nodes are inspired by:
-		[rgthree](https://github.com/rgthree/rgthree-comfy)
-		[Comfyroll](https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes)
-		[Efficiency Nodes](https://github.com/jags111/efficiency-nodes-comfyui)
-		[ControlNet AUX](https://github.com/Fannovel16/comfyui_controlnet_aux)
-		[Impact Pack](https://github.com/ltdrdata/ComfyUI-Impact-Pack)
-		[Image Saver](https://github.com/giriss/comfy-image-saver)
-		[Prompt Reader](https://github.com/receyuki/comfyui-prompt-reader-node)
-		[ComfyMath](https://github.com/evanspearman/ComfyMath)
-		[Embedding Picker](https://github.com/Tropfchen/ComfyUI-Embedding_Picker)
+Jake Upgrade Nodes are inspired by:
+[rgthree](https://github.com/rgthree/rgthree-comfy)
+[Comfyroll](https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes)
+[Efficiency Nodes](https://github.com/jags111/efficiency-nodes-comfyui)
+[ControlNet AUX](https://github.com/Fannovel16/comfyui_controlnet_aux)
+[Impact Pack](https://github.com/ltdrdata/ComfyUI-Impact-Pack)
+[Image Saver](https://github.com/giriss/comfy-image-saver)
+[Prompt Reader](https://github.com/receyuki/comfyui-prompt-reader-node)
+[ComfyMath](https://github.com/evanspearman/ComfyMath)
+[Embedding Picker](https://github.com/Tropfchen/ComfyUI-Embedding_Picker)
 
 ## Changelog
 - 2024-06-23 - v1.0.0 released.
