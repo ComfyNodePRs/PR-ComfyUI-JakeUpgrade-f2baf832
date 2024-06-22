@@ -37,8 +37,8 @@ A [ComfyUI](https://github.com/comfyanonymous/ComfyUI) workflow customization by
 
 ## Required Custom Nodes
 	To use JK_workflow, you need to install:
-	- [ComfyUI Manager](https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes)
-	- [rgthree](https://github.com/rgthree/rgthree-comfy)
+[ComfyUI Manager](https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes)
+[rgthree](https://github.com/rgthree/rgthree-comfy)
 	- [Comfyroll](https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes)
 	- [pythongosssss](https://github.com/pythongosssss/ComfyUI-Custom-Scripts)
 	- [Efficiency Nodes](https://github.com/jags111/efficiency-nodes-comfyui)
