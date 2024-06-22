@@ -63,7 +63,7 @@ To use JK_workflow, you need to install:
 Install and replace old files (optional):
 [Prompt Stylers](https://github.com/wolfden/ComfyUi_PromptStylers)
 [Dynamic Prompts](https://github.com/adieyal/comfyui-dynamicprompts)
-[Segment Anithing](https://github.com/storyicon/comfyui_segment_anything)
+[Segment Anything](https://github.com/storyicon/comfyui_segment_anything)
 
 ## JakeUpgrade Custom Nodes
 	Misc Nodes
